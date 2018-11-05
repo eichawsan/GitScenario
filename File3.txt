@@ -1,8 +1,8 @@
 File3
 =============================
 Line1
-Line2-F2 Changed
-Line3
+Line2- F3 Changed
+Line3- F3 changed
 Line4
 Line5
 Line6
